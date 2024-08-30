@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[co]
+
+# Virtual environment
+myenv/
+venv/
+.env/
+
+# Flask instance folder
+instance/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.ncb
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+
+# Misc
+*.DS_Store
+*.coverage
+*.tox
+*.nox
+*.coverage
+*.hypothesis/
+.pytest_cache/
+.coverage.*
+nosetests.xml
+coverage.xml
+*.prof
+*.dat
+*.json
+
+# Environment variables
+.env
