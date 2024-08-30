@@ -51,7 +51,7 @@ transportation_mapping = {
     'Walking': 1,
     'Motorbike': 2,
     'Automobile': 3,
-    'Public_Transportation': 4,
+    'Public Transportation': 4,
 }
 
 frequency_mapping = {
